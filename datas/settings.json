@@ -1,0 +1,51 @@
+{
+    "information":
+    [{
+        "author": "Surya Atmaja",
+        "version": "0.0.1"
+    }],
+
+    "settings":
+    [{
+        "perkilo": 1500
+    }],
+
+    "method":
+    [{
+        "1":[{
+            "kilat":0, 
+            "sscepat":0, 
+            "cepat":0, 
+            "biasa":0
+            }],
+
+        "2":[{
+            "kilat":0, 
+            "sscepat":0, 
+            "cepat":0.05, 
+            "biasa":0.1
+            }],
+
+        "3":[{
+            "kilat":0, 
+            "sscepat":0.05, 
+            "cepat":0.1, 
+            "biasa":0.15
+            }],
+
+        "4":[{
+            "kilat":0.05, 
+            "sscepat":0.1, 
+            "cepat":0.15, 
+            "biasa":0.2
+            }],
+
+        "5":[{
+            "kilat":0.1, 
+            "sscepat":0.15, 
+            "cepat":0.2, 
+            "biasa":0.3
+            }]
+        
+    }]
+}
